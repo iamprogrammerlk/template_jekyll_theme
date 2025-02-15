@@ -10,9 +10,34 @@
 
 <br><br>
 
-# PROJECT_TITLE
+# Template Jekyll Theme
 
-### PROJECT_DESCRIPTION
+### Template for building responsive Jekyll themes with seamless dark mode.
+
+> [!TIP]
+>
+> # ⭐ Star This Repository
+>
+> ### If you find this template and my work useful, please consider supporting me by giving a ⭐ star ⭐ to this repository, and [follow me on GitHub](https://github.com/iamprogrammerlk).
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+# 🧰 Resource
+
+- Jekyll Documentation.
+
+  - https://jekyllrb.com/docs
+
+- Liquid Documentation.
+
+  - https://shopify.github.io/liquid/
+
+- Setting up a GitHub Pages site with Jekyll.
+
+  - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
