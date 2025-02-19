@@ -1,4 +1,14 @@
 # Custom -------------------------------------------------------------------------------------------------------
+_site
+_site/
+build/
+node_modules
+npm-debug.log
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+Gemfile.lock
+**/Gemfile.lock
 
 ## All private resources files
 .private/
